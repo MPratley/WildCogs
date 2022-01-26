@@ -5,7 +5,7 @@ cogs made for Red Discord-Bot V3
 This repo was created for Red Bot V3, if you are using a previous version please upgrade before proceeding.
 
 add this repo:  
-`[p]repo add wildcogs https://github.com/WildStriker/WildCogs master`
+`[p]repo add wildcogs https://github.com/MPratley/WildCogs master`
 
 where [p] is your command prefix.
 
